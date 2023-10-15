@@ -1,0 +1,4 @@
+---
+operating_mode: file
+input_file_path: ./items_to_add.txt
+output_file_path: ./set_of_items.txt
